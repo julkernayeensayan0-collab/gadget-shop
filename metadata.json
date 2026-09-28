@@ -1,0 +1,6 @@
+{
+  "name": "Eshan Gadgets",
+  "description": "Discover high-performance gadgets, smart audio, wearables, and tech gear at Eshan Gadgets with seamless online payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
